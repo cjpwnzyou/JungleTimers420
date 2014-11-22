@@ -31,19 +31,19 @@ namespace JungleTimerHax
         {
             
             junglePos[0x1] = new Vector3(3632.7f, 7600.373f, 60.0f); jungleRespawns[0x1] = 115.0f;
-            junglePos[0x2] = new Vector3(3373.678f, 6223.346f, 60.0f); jungleRespawns[0x2] = 120.0f;
-            junglePos[0x3] = new Vector3(6300.05f, 5300.06f, 60.0f); jungleRespawns[0x3] = 120.0f;
+            junglePos[0x2] = new Vector3(3373.678f, 6223.346f, 60.0f); jungleRespawns[0x2] = 115.0f;
+            junglePos[0x3] = new Vector3(6300.05f, 5300.06f, 60.0f); jungleRespawns[0x3] = 115.0f;
             junglePos[0x4] = new Vector3(7455.615f, 3890.203f, 60.0f); jungleRespawns[0x4] = 115.0f;
-            junglePos[0x5] = new Vector3(7916.842f, 2533.963f, 60.0f); jungleRespawns[0x5] = 120.0f;
+            junglePos[0x5] = new Vector3(7916.842f, 2533.963f, 60.0f); jungleRespawns[0x5] = 115.0f;
             junglePos[0x6] = new Vector3(9459.52f, 4193.03f, 60.0f); jungleRespawns[0x6] = 150.0f;
             junglePos[0x7] = new Vector3(10386.61f, 6811.112f, 60.0f); jungleRespawns[0x7] = 115.0f;
-            junglePos[0x8] = new Vector3(10651.52f, 8116.424f, 60.0f); jungleRespawns[0x8] = 120.0f;
-            junglePos[0x9] = new Vector3(7580.368f, 9250.405f, 60.0f); jungleRespawns[0x9] = 120.0f;
+            junglePos[0x8] = new Vector3(10651.52f, 8116.424f, 60.0f); jungleRespawns[0x8] = 115.0f;
+            junglePos[0x9] = new Vector3(7580.368f, 9250.405f, 60.0f); jungleRespawns[0x9] = 115.0f;
             junglePos[0xA] = new Vector3(6504.241f, 10584.56f, 60.0f); jungleRespawns[0xA] = 115;
-            junglePos[0xB] = new Vector3(5810.464f, 11925.47f, 60.0f); jungleRespawns[0xB] = 120.0f;
+            junglePos[0xB] = new Vector3(5810.464f, 11925.47f, 60.0f); jungleRespawns[0xB] = 115.0f;
             junglePos[0xC] = new Vector3(4600.495f, 10250.46f, 60.0f); jungleRespawns[0xC] = 1200.0f;
-            junglePos[0xD] = new Vector3(1684.0f, 8207.0f, 60.0f); jungleRespawns[0xD] = 120.0f;
-            junglePos[0xE] = new Vector3(12337.0f, 6263.0f, 60.0f); jungleRespawns[0xE] = 120.0f;
+            junglePos[0xD] = new Vector3(1684.0f, 8207.0f, 60.0f); jungleRespawns[0xD] = 115.0f;
+            junglePos[0xE] = new Vector3(12337.0f, 6263.0f, 60.0f); jungleRespawns[0xE] = 115.0f;
             CustomEvents.Game.OnGameLoad += Game_OnGameLoad;
         }
 
